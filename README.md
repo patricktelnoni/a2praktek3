@@ -2,25 +2,25 @@
 
 Buatlah program Java yang melakukan perhitungan luas segitiga dengan menggunakan modular programming. Program akan menerima input berupa alsa dan tinggi segitiga. Luas dihitung dalam function terpisah.
 
-Contoh output: \n
-Masukan nilai N : 17 \n
+Contoh output: <br>
+Masukan nilai N : 17 <br>
 0 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17.
 
 **Level Medium**
 
 Untuk menyambut hari raya Natal dan Tahun Baru, Toko kue Rejeki memberikan paket hampers seperti di bawah ini
 
-No  Nama Menu                        Harga \n
-1   2 Kue kering dan 3 Kue Basah    150000 \n
-2   3 Kue Kering dan 2 Kue Basah    175000 \n
-3   3 Kue Kering dan 3 Kue Basah    200000 \n
+No  Nama Menu                        Harga <br>
+1   2 Kue kering dan 3 Kue Basah    150000 <br>
+2   3 Kue Kering dan 2 Kue Basah    175000 <br>
+3   3 Kue Kering dan 3 Kue Basah    200000 \<br>
 
 Selain komposisi harga kue di atas, juga terdapat biaya tambahan untuk packing dan kartu ucapan. Adapun harga packing dan kartu adalah sebagai berikut
 
-No  Jenis Packing   Harga
-1   Pita            50000
-2   Kartu           75000
-3   Pita + Kartu    125000
+No  Jenis Packing   Harga <br>
+1   Pita            50000 <br>
+2   Kartu           75000 <br>
+3   Pita + Kartu    125000 <br>
 
 Buatlah program Java untuk menampilkan menu hampers dan packing. User setelah memilih paket hamper, lalu memilih paket packing. Output dari program ini adalah total bayar yang sudah dihitung dengan pajak 10%..
 
@@ -29,14 +29,14 @@ Terdapat 2 function. Yang pertama untuk menghitung total paket hamper dan packin
 Untuk setiap paket hamper dan packing yang dipilih dimasukan ke dalam ArrayList untuk diproses perhitungan total biaya yang dibayar. 
 User bisa memesan lebih dari 1 paket hampers dan packing. Jadi, yang disimpan ke dalam ArrayList adalah harga hamper + packing.
 
-Masukan pilihan hampers [1/2/3]:1
-Masukan pilihan packing [1/2/3]:2
-Input lagi (Y/N)?: Y
-Masukan pilihan hampers [1/2/3]:2
-Masukan pilihan packing [1/2/3]:3
-Input lagi (Y/N)?: N
-Total hamper yang dipesan = 2
-Total yang harus dibayar = 577500.0
+Masukan pilihan hampers [1/2/3]:1 <br>
+Masukan pilihan packing [1/2/3]:2 <br>
+Input lagi (Y/N)?: Y <br>
+Masukan pilihan hampers [1/2/3]:2 <br>
+Masukan pilihan packing [1/2/3]:3 <br>
+Input lagi (Y/N)?: N <br>
+Total hamper yang dipesan = 2 <br>
+Total yang harus dibayar = 577500.0 <br>
 
 
 
