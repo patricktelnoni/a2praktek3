@@ -2,18 +2,18 @@
 
 Buatlah program Java yang melakukan perhitungan luas segitiga dengan menggunakan modular programming. Program akan menerima input berupa alsa dan tinggi segitiga. Luas dihitung dalam function terpisah.
 
-Contoh output:
-Masukan nilai N : 17
+Contoh output: \n
+Masukan nilai N : 17 \n
 0 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17.
 
 **Level Medium**
 
 Untuk menyambut hari raya Natal dan Tahun Baru, Toko kue Rejeki memberikan paket hampers seperti di bawah ini
 
-No  Nama Menu                        Harga 
-1   2 Kue kering dan 3 Kue Basah    150000
-2   3 Kue Kering dan 2 Kue Basah    175000
-3   3 Kue Kering dan 3 Kue Basah    200000
+No  Nama Menu                        Harga \n
+1   2 Kue kering dan 3 Kue Basah    150000 \n
+2   3 Kue Kering dan 2 Kue Basah    175000 \n
+3   3 Kue Kering dan 3 Kue Basah    200000 \n
 
 Selain komposisi harga kue di atas, juga terdapat biaya tambahan untuk packing dan kartu ucapan. Adapun harga packing dan kartu adalah sebagai berikut
 
